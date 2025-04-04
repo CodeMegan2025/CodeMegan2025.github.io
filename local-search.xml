@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2025/04/03/hello-world/"/>
+    <url>/2025/04/03/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><!--全局字体--><style>  /* 设置整个页面的字体 */  html, body, .markdown-body {    font-family: KaiTi,"Microsoft YaHei",Georgia, sans, serif;    font-size: 15px;  }  /* 只设置 markdown 字体 */  .markdown-body {    font-family: KaiTi,"Microsoft YaHei",Georgia, sans, serif;    font-size: 15px;  }</style><!--文章内容图片--><p><img src="/img/default.png" alt="文章内容图片（仅显示图片要删除方括号内容）"></p><!--文章加入markdown样式--><div class="markdown-body">正文</div><!--脚注--><p>这是一句话<a href="%E5%8F%82%E8%80%83%E8%B5%84%E6%96%991">^1</a></p><p>这是另一句话<a href="%E5%8F%82%E8%80%83%E8%B5%84%E6%96%992">^2</a></p><h2 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h2><p>git config –global user.name “CodeMegan2025”<br>git config –global user.email “<a href="mailto:&#x43;&#111;&#100;&#101;&#x4d;&#x65;&#103;&#97;&#x6e;&#50;&#x30;&#50;&#x33;&#64;&#104;&#111;&#116;&#x6d;&#97;&#105;&#x6c;&#46;&#x63;&#x6f;&#109;">CodeMegan2023@hotmail.com</a>“</p><p>ssh-keygen -t rsa -C “<a href="mailto:&#67;&#111;&#x64;&#x65;&#77;&#101;&#103;&#97;&#x6e;&#50;&#x30;&#50;&#51;&#64;&#x68;&#111;&#116;&#109;&#x61;&#105;&#x6c;&#x2e;&#99;&#x6f;&#x6d;">CodeMegan2023@hotmail.com</a>“</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
